@@ -1,0 +1,510 @@
+Vereinsname;Spieler_id;Name;Geburtsdatum;Alter;Geburtsort;Staatsbuergerschaft;Groesse in M;Position;Fuss
+1.FC Heidenheim 1846;43824;Kevin Muller;15.03.1991;33;Rostock;Deutschland;1.9;Torwart;rechts
+1.FC Heidenheim 1846;806948;Frank Feller;07.01.2004;21;Leonberg;Deutschland;1.83;Torwart;rechts
+1.FC Heidenheim 1846;57796;Vitus Eicher;05.11.1990;34;Erding;Deutschland;1.91;Torwart;links
+1.FC Heidenheim 1846;519035;Paul Tschernuth;20.01.2002;22;Salzburg;Oesterreich;1.86;Torwart;links
+1.FC Heidenheim 1846;227084;Benedikt Gimber;19.02.1997;27;Buchen;Deutschland;1.87;Abwehr - Innenverteidiger;links
+1.FC Heidenheim 1846;133731;Patrick Mainka;06.11.1994;30;Guetersloh;Deutschland;1.94;Abwehr - Innenverteidiger;rechts
+1.FC Heidenheim 1846;337092;Tim Siersleben;09.03.2000;24;Magdeburg;Deutschland;1.87;Abwehr - Innenverteidiger;links
+1.FC Heidenheim 1846;485747;Thomas Keller;05.08.1999;25;Muenchen;Deutschland;1.86;Abwehr - Innenverteidiger;rechts
+1.FC Heidenheim 1846;192169;Jonas Fohrenbach;26.01.1996;28;Freiburg im Breisgau;Deutschland;1.84;Abwehr - Linker Verteidiger;links
+1.FC Heidenheim 1846;604320;Frans Kratzig;14.01.2003;21;Nuernberg;Deutschland;1.77;Abwehr - Linker Verteidiger;links
+1.FC Heidenheim 1846;388294;Omar Traore;04.02.1998;26;Osnabrueck;Deutschland/Togo;1.87;Abwehr - Rechter Verteidiger;rechts
+1.FC Heidenheim 1846;117478;Marnon Busch;08.12.1994;30;Stade;Deutschland;1.82;Abwehr - Rechter Verteidiger;rechts
+1.FC Heidenheim 1846;392710;Lennard Maloney;08.10.1999;25;Berlin;Vereinigte Staaten/Deutschland;1.88;Mittelfeld - Defensives Mittelfeld;rechts
+1.FC Heidenheim 1846;251302;Niklas Dorsch;15.01.1998;26;Lichtenfels;Deutschland;1.78;Mittelfeld - Defensives Mittelfeld;rechts
+1.FC Heidenheim 1846;530173;Julian Niehues;17.04.2001;23;Muenster;Deutschland;1.95;Mittelfeld - Defensives Mittelfeld;rechts
+1.FC Heidenheim 1846;825971;Luka Janes;19.01.2004;20;Schwaebisch Gmuend;Deutschland/Kroatien;1.83;Mittelfeld - Defensives Mittelfeld;rechts
+1.FC Heidenheim 1846;31599;Norman Theuerkauf;24.01.1987;37;Nordhausen;Deutschland;1.83;Mittelfeld - Defensives Mittelfeld;links
+1.FC Heidenheim 1846;581357;Jan Schoppner;12.06.1999;25;Homberg (Efze);Deutschland;1.9;Mittelfeld - Zentrales Mittelfeld;rechts
+1.FC Heidenheim 1846;809498;Luca Kerber;10.03.2002;22;Dillingen (Saar);Deutschland;1.84;Mittelfeld - Zentrales Mittelfeld;rechts
+1.FC Heidenheim 1846;900909;Paul Wanner;23.12.2005;19;Dornbirn;Deutschland/Oesterreich;1.85;Mittelfeld - Offensives Mittelfeld;links
+1.FC Heidenheim 1846;273669;Adrian Beck;09.06.1997;27;Crailsheim;Deutschland;1.86;Mittelfeld - Offensives Mittelfeld;rechts
+1.FC Heidenheim 1846;94030;Denis Thomalla;16.08.1992;32;Pforzheim;Deutschland;1.86;Mittelfeld - Offensives Mittelfeld;rechts
+1.FC Heidenheim 1846;804219;Leo Scienza;13.09.1998;26;Venâncio Aires;Brasilien/Luxemburg;1.75;Sturm - Linksaussen;beidfuessig
+1.FC Heidenheim 1846;283497;Mathias Honsak;20.12.1996;28;Wien;Oesterreich;1.88;Sturm - Linksaussen;links
+1.FC Heidenheim 1846;307183;Sirlord Conteh;09.07.1996;28;Hamburg;Deutschland/Ghana;1.78;Sturm - Rechtsaussen;rechts
+1.FC Heidenheim 1846;471055;Marvin Pieringer;04.10.1999;25;Bad Urach;Deutschland;1.91;Sturm - Mittelstuermer;rechts
+1.FC Heidenheim 1846;584254;Maximilian Breunig;14.08.2000;24;Wuerzburg;Deutschland;1.95;Sturm - Mittelstuermer;links
+1.FC Heidenheim 1846;545332;Mikkel Kaufmann;03.01.2001;24;Hjørring;Daenemark;1.89;Sturm - Mittelstuermer;rechts
+1.FC Heidenheim 1846;187097;Budu Zivzivadze;10.03.1994;30;Kutaisi;Georgien;1.89;Sturm - Mittelstuermer;beidfuessig
+1.FC Heidenheim 1846;394033;Stefan Schimmer;28.04.1994;30;Wertingen;Deutschland;1.85;Sturm - Mittelstuermer;rechts
+1.FC Union Berlin;107775;Frederik Ronnow;04.08.1992;32;Horsens;Daenemark;1.88;Torwart;rechts
+1.FC Union Berlin;93763;Alexander Schwolow;02.06.1992;32;Wiesbaden;Deutschland;1.9;Torwart;rechts
+1.FC Union Berlin;161057;Carl Klaus;16.01.1994;30;Stuttgart;Deutschland;1.89;Torwart;rechts
+1.FC Union Berlin;698840;Yannic Stein;17.09.2004;20;Berlin;Deutschland;1.9;Torwart;null
+1.FC Union Berlin;357156;Diogo Leite;23.01.1999;25;Porto;Portugal;1.9;Abwehr - Innenverteidiger;links
+1.FC Union Berlin;387047;Danilho Doekhi;30.06.1998;26;Rotterdam;Niederlande/Suriname;1.9;Abwehr - Innenverteidiger;rechts
+1.FC Union Berlin;597432;Leopold Querfeld;20.12.2003;21;Wien;Oesterreich;1.9;Abwehr - Innenverteidiger;rechts
+1.FC Union Berlin;84435;Kevin Vogt;23.09.1991;33;Witten;Deutschland;1.94;Abwehr - Innenverteidiger;rechts
+1.FC Union Berlin;127076;Jerome Roussillon;06.01.1993;32;Sarcelles;Guadeloupe/Frankreich;1.72;Abwehr - Linker Verteidiger;links
+1.FC Union Berlin;362977;Josip Juranovic;16.08.1995;29;Zagreb;Kroatien;1.73;Abwehr - Rechter Verteidiger;rechts
+1.FC Union Berlin;75921;Christopher Trimmel;24.02.1987;37;Oberpullendorf;Oesterreich;1.89;Abwehr - Rechter Verteidiger;rechts
+1.FC Union Berlin;692737;Aljoscha Kemlein;02.08.2004;20;Berlin;Deutschland;1.85;Mittelfeld - Defensives Mittelfeld;rechts
+1.FC Union Berlin;353948;Lucas Tousart;29.04.1997;27;Arras;Frankreich;1.84;Mittelfeld - Defensives Mittelfeld;rechts
+1.FC Union Berlin;124410;Rani Khedira;27.01.1994;30;Stuttgart;Deutschland/Tunesien;1.89;Mittelfeld - Defensives Mittelfeld;rechts
+1.FC Union Berlin;454863;Andras Schafer;13.04.1999;25;Szombathely;Ungarn;1.78;Mittelfeld - Zentrales Mittelfeld;rechts
+1.FC Union Berlin;243188;Laszlo Benes;09.09.1997;27;Dunajská Streda;Slowakei;1.81;Mittelfeld - Zentrales Mittelfeld;links
+1.FC Union Berlin;177779;Janik Haberer;02.04.1994;30;Wangen im Allgaeu;Deutschland;1.86;Mittelfeld - Zentrales Mittelfeld;rechts
+1.FC Union Berlin;798043;Tom Rothe;29.10.2004;20;Rendsburg;Deutschland;1.93;Mittelfeld - Linkes Mittelfeld;links
+1.FC Union Berlin;270393;Robert Skov;20.05.1996;28;Marbella;Daenemark;1.85;Mittelfeld - Linkes Mittelfeld;links
+1.FC Union Berlin;297583;Woo Yeong Jeong;20.09.1999;25;Yeonsu-gu, Incheon;Suedkorea;1.79;Mittelfeld - Offensives Mittelfeld;rechts
+1.FC Union Berlin;745075;David Preu;26.10.2004;20;Muenchen;Deutschland;1.72;Sturm - Linksaussen;rechts
+1.FC Union Berlin;287920;Tim Skarke;07.09.1996;28;Heidenheim an der Brenz;Deutschland;1.81;Sturm - Rechtsaussen;rechts
+1.FC Union Berlin;409517;Yorbe Vertessen;08.01.2001;24;Tienen;Belgien;1.74;Sturm - Mittelstuermer;rechts
+1.FC Union Berlin;453870;Benedict Hollerbach;17.05.2001;23;Starnberg;Deutschland;1.81;Sturm - Mittelstuermer;rechts
+1.FC Union Berlin;355369;Jordan;26.04.1996;28;Washington, D. C.;Vereinigte Staaten/Frankreich;1.91;Sturm - Mittelstuermer;rechts
+1.FC Union Berlin;82009;Kevin Volland;30.07.1992;32;Marktoberdorf;Deutschland;1.79;Sturm - Mittelstuermer;links
+1.FC Union Berlin;583699;Andrej Ilic;03.04.2000;24;Belgrade;Serbien;1.89;Sturm - Mittelstuermer;rechts
+1.FC Union Berlin;340700;Ivan Prtajin;14.05.1996;28;Zadar;Kroatien;1.89;Sturm - Mittelstuermer;rechts
+1.FSV Mainz 05;160963;Robin Zentner;28.10.1994;30;Ruedesheim am Rhein;Deutschland;1.95;Torwart;rechts
+1.FSV Mainz 05;90317;Daniel Batz;12.01.1991;33;Erlangen;Deutschland;1.91;Torwart;beidfuessig
+1.FSV Mainz 05;490609;Lasse Riess;27.07.2001;23;Nieder-Olm;Deutschland;1.91;Torwart;rechts
+1.FSV Mainz 05;370683;Andreas Hanche Olsen;17.01.1997;27;Bodø;Norwegen;1.85;Abwehr - Innenverteidiger;rechts
+1.FSV Mainz 05;460245;Moritz Jenz;30.04.1999;25;Berlin;Deutschland/Nigeria;1.9;Abwehr - Innenverteidiger;rechts
+1.FSV Mainz 05;334207;Maxim Leitsch;18.05.1998;26;Essen;Deutschland;1.89;Abwehr - Innenverteidiger;links
+1.FSV Mainz 05;82350;Stefan Bell;24.08.1991;33;Andernach;Deutschland;1.92;Abwehr - Innenverteidiger;rechts
+1.FSV Mainz 05;934317;Maxim Dal;26.01.2006;18;Nagold;Deutschland/Tuerkei;1.88;Abwehr - Innenverteidiger;links
+1.FSV Mainz 05;127573;Phillipp Mwene;29.01.1994;30;Wien;Oesterreich/Kenia;1.7;Abwehr - Linker Verteidiger;rechts
+1.FSV Mainz 05;168989;Silvan Widmer;05.03.1993;31;Aarau;Schweiz;1.83;Abwehr - Rechter Verteidiger;rechts
+1.FSV Mainz 05;85906;Danny Da Costa;13.07.1993;31;Neuss;Deutschland/Angola;1.87;Abwehr - Rechter Verteidiger;rechts
+1.FSV Mainz 05;601143;Nikolas Veratschnig;24.01.2003;21;Villach;Oesterreich;1.8;Abwehr - Rechter Verteidiger;rechts
+1.FSV Mainz 05;643574;Kaishu Sano;30.12.2000;24;Tsuyama, Okayama;Japan;1.76;Mittelfeld - Defensives Mittelfeld;rechts
+1.FSV Mainz 05;118847;Dominik Kohr;31.01.1994;30;Trier;Deutschland;1.83;Mittelfeld - Defensives Mittelfeld;rechts
+1.FSV Mainz 05;232454;Nadiem Amiri;27.10.1996;28;Ludwigshafen am Rhein;Deutschland/Afghanistan;1.8;Mittelfeld - Zentrales Mittelfeld;rechts
+1.FSV Mainz 05;453016;Anthony Caci;01.07.1997;27;Forbach;Frankreich;1.84;Mittelfeld - Rechtes Mittelfeld;rechts
+1.FSV Mainz 05;503160;Paul Nebel;10.10.2002;22;Bad Nauheim;Deutschland/Irland;1.69;Mittelfeld - Offensives Mittelfeld;beidfuessig
+1.FSV Mainz 05;562948;Hyun Seok Hong;16.06.1999;25;Seoul;Suedkorea;1.77;Mittelfeld - Offensives Mittelfeld;links
+1.FSV Mainz 05;314398;Jae Sung Lee;10.08.1992;32;Ulsan;Suedkorea;1.8;Mittelfeld - Offensives Mittelfeld;links
+1.FSV Mainz 05;315332;Aymen Barkok;21.05.1998;26;Frankfurt am Main;Marokko/Deutschland;1.89;Mittelfeld - Offensives Mittelfeld;rechts
+1.FSV Mainz 05;604327;Gabriel Vidovic;01.12.2003;21;Augsburg;Kroatien/Deutschland;1.8;Sturm - Linksaussen;rechts
+1.FSV Mainz 05;569033;Armindo Sieb;17.02.2003;21;Halle (Saale);Deutschland;1.75;Sturm - Haengende Spitze;beidfuessig
+1.FSV Mainz 05;333647;Jonathan Burkardt;11.07.2000;24;Darmstadt;Deutschland;1.83;Sturm - Mittelstuermer;rechts
+1.FSV Mainz 05;796213;Nelson Weiper;17.03.2005;19;Mainz;Deutschland/Albanien;1.92;Sturm - Mittelstuermer;rechts
+Bayer 04 Leverkusen;550829;Matej Kovar;17.05.2000;24;Uherské Hradiště;Tschechien;1.96;Torwart;rechts
+Bayer 04 Leverkusen;48015;Lukas Hradecky;24.11.1989;35;Bratislava;Finnland/Slowakei;1.92;Torwart;rechts
+Bayer 04 Leverkusen;85543;Niklas Lomb;28.07.1993;31;Koeln;Deutschland;1.86;Torwart;rechts
+Bayer 04 Leverkusen;659813;Piero Hincapie;09.01.2002;23;Esmeraldas;Ecuador;1.84;Abwehr - Innenverteidiger;links
+Bayer 04 Leverkusen;564545;Edmond Tapsoba;02.02.1999;25;Ouagadougou;Burkina Faso;1.94;Abwehr - Innenverteidiger;rechts
+Bayer 04 Leverkusen;196357;Jonathan Tah;11.02.1996;28;Hamburg;Deutschland/Elfenbeinkueste;1.95;Abwehr - Innenverteidiger;rechts
+Bayer 04 Leverkusen;919515;Jeanuel Belocian;17.02.2005;19;Les Abymes;Frankreich/Guadeloupe;1.82;Abwehr - Innenverteidiger;links
+Bayer 04 Leverkusen;644613;Sadik Fofana;16.05.2003;21;Aachen;Togo/Deutschland;1.92;Abwehr - Innenverteidiger;rechts
+Bayer 04 Leverkusen;193082;Alejandro Grimaldo;20.09.1995;29;Valencia;Spanien;1.71;Abwehr - Linker Verteidiger;links
+Bayer 04 Leverkusen;348026;Nordi Mukiele;01.11.1997;27;Montreuil;Frankreich/DR Kongo;1.87;Abwehr - Rechter Verteidiger;rechts
+Bayer 04 Leverkusen;977464;Arthur;17.03.2003;21;Belo Horizonte;Brasilien;1.74;Abwehr - Rechter Verteidiger;rechts
+Bayer 04 Leverkusen;111455;Granit Xhaka;27.09.1992;32;Basel;Schweiz;1.86;Mittelfeld - Defensives Mittelfeld;links
+Bayer 04 Leverkusen;159088;Robert Andrich;22.09.1994;30;Potsdam;Deutschland;1.87;Mittelfeld - Defensives Mittelfeld;rechts
+Bayer 04 Leverkusen;401578;Exequiel Palacios;05.10.1998;26;Famaillá;Argentinien;1.78;Mittelfeld - Zentrales Mittelfeld;rechts
+Bayer 04 Leverkusen;261504;Aleix Garcia;28.06.1997;27;Ulldecona;Spanien;1.73;Mittelfeld - Zentrales Mittelfeld;rechts
+Bayer 04 Leverkusen;484547;Jeremie Frimpong;10.12.2000;24;Amsterdam;Niederlande/Ghana;1.72;Mittelfeld - Rechtes Mittelfeld;rechts
+Bayer 04 Leverkusen;340322;Nathan Tella;05.07.1999;25;Stevenage;Nigeria/England;1.73;Mittelfeld - Rechtes Mittelfeld;rechts
+Bayer 04 Leverkusen;598577;Florian Wirtz;03.05.2003;21;Pulheim;Deutschland;1.77;Mittelfeld - Offensives Mittelfeld;rechts
+Bayer 04 Leverkusen;7161;Jonas Hofmann;14.07.1992;32;Heidelberg;Deutschland;1.76;Mittelfeld - Offensives Mittelfeld;rechts
+Bayer 04 Leverkusen;929943;Francis Onyeka;29.04.2007;17;Gummersbach;Deutschland/Nigeria;1.86;Mittelfeld - Offensives Mittelfeld;links
+Bayer 04 Leverkusen;532776;Amine Adli;10.05.2000;24;Béziers;Marokko/Frankreich;1.74;Sturm - Linksaussen;links
+Bayer 04 Leverkusen;442891;Martin Terrier;04.03.1997;27;Armentières;Frankreich;1.84;Sturm - Linksaussen;rechts
+Bayer 04 Leverkusen;656681;Victor Boniface;23.12.2000;24;Akure;Nigeria;1.9;Sturm - Mittelstuermer;rechts
+Bayer 04 Leverkusen;242086;Patrik Schick;24.01.1996;28;Praha;Tschechien;1.91;Sturm - Mittelstuermer;links
+Bayer 04 Leverkusen;1000675;Alejo Sarco;06.01.2006;19;Alberti;Argentinien/Italien;1.79;Sturm - Mittelstuermer;links
+Bayer 04 Leverkusen;1045344;Artem Stepanov;10.08.2007;17;Lutsk;Ukraine;1.92;Sturm - Mittelstuermer;rechts
+Borussia Dortmund;257814;Gregor Kobel;06.12.1997;27;Zuerich;Schweiz;1.96;Torwart;rechts
+Borussia Dortmund;453737;Marcel Lotka;25.05.2001;23;Duisburg;Deutschland/Polen;1.9;Torwart;rechts
+Borussia Dortmund;76158;Alexander Meyer;13.04.1991;33;Bad Oldesloe;Deutschland;1.95;Torwart;rechts
+Borussia Dortmund;684116;Silas Ostrzinski;19.11.2003;21;Hagen;Deutschland/Polen;1.98;Torwart;rechts
+Borussia Dortmund;388198;Nico Schlotterbeck;01.12.1999;25;Waiblingen;Deutschland;1.91;Abwehr - Innenverteidiger;links
+Borussia Dortmund;193004;Waldemar Anton;20.07.1996;28;Almalyk;Deutschland;1.89;Abwehr - Innenverteidiger;rechts
+Borussia Dortmund;166601;Niklas Sule;03.09.1995;29;Frankfurt am Main;Deutschland;1.95;Abwehr - Innenverteidiger;rechts
+Borussia Dortmund;883007;Filippo Mane;08.03.2005;19;Magenta;Italien/Senegal;1.88;Abwehr - Innenverteidiger;rechts
+Borussia Dortmund;284732;Ramy Bensebaini;16.04.1995;29;Constantine;Algerien;1.87;Abwehr - Linker Verteidiger;links
+Borussia Dortmund;884820;Almugera Kabar;06.06.2006;18;Bremen;Deutschland/Libyen;1.86;Abwehr - Linker Verteidiger;links
+Borussia Dortmund;627228;Yan Couto;03.06.2002;22;Curitiba;Brasilien/Portugal;1.68;Abwehr - Rechter Verteidiger;rechts
+Borussia Dortmund;370789;Julian Ryerson;17.11.1997;27;Lyngdal;Norwegen/Vereinigte Staaten;1.83;Abwehr - Rechter Verteidiger;rechts
+Borussia Dortmund;119296;Emre Can;12.01.1994;30;Frankfurt am Main;Deutschland/Tuerkei;1.86;Mittelfeld - Defensives Mittelfeld;rechts
+Borussia Dortmund;406640;Felix Nmecha;10.10.2000;24;Hamburg;Deutschland/England;1.9;Mittelfeld - Zentrales Mittelfeld;rechts
+Borussia Dortmund;106987;Marcel Sabitzer;17.03.1994;30;Wels;Oesterreich;1.78;Mittelfeld - Zentrales Mittelfeld;rechts
+Borussia Dortmund;82873;Pascal Gross;15.06.1991;33;Mannheim;Deutschland;1.81;Mittelfeld - Zentrales Mittelfeld;rechts
+Borussia Dortmund;884810;Kjell Watjen;16.02.2006;18;Gevelsberg;Deutschland;1.83;Mittelfeld - Zentrales Mittelfeld;rechts
+Borussia Dortmund;187492;Julian Brandt;02.05.1996;28;Bremen;Deutschland;1.85;Mittelfeld - Offensives Mittelfeld;rechts
+Borussia Dortmund;504215;Giovanni Reyna;13.11.2002;22;Sunderland;Vereinigte Staaten/Portugal;1.85;Mittelfeld - Offensives Mittelfeld;rechts
+Borussia Dortmund;670882;Jamie Gittens;08.08.2004;20;London;England/Barbados;1.78;Sturm - Linksaussen;rechts
+Borussia Dortmund;496094;Karim Adeyemi;18.01.2002;22;Muenchen;Deutschland/Nigeria;1.8;Sturm - Linksaussen;links
+Borussia Dortmund;819215;Julien Duranville;05.05.2006;18;Uccle;Belgien;1.73;Sturm - Linksaussen;rechts
+Borussia Dortmund;326029;Donyell Malen;19.01.1999;25;Wieringen;Niederlande/Suriname;1.76;Sturm - Rechtsaussen;rechts
+Borussia Dortmund;866579;Cole Campbell;20.02.2006;18;Houston, Texas;Vereinigte Staaten/Island;1.7;Sturm - Rechtsaussen;links
+Borussia Dortmund;270541;Serhou Guirassy;12.03.1996;28;Arles;Guinea/Frankreich;1.87;Sturm - Mittelstuermer;rechts
+Borussia Dortmund;578392;Maximilian Beier;17.10.2002;22;Brandenburg an der Havel;Deutschland;1.85;Sturm - Mittelstuermer;rechts
+Borussia Mönchengladbach;247915;Jonas Omlin;10.01.1994;"31
+Happy Birthday";Sarnen;Schweiz;1.9;Torwart;rechts
+Borussia Mönchengladbach;284270;Moritz Nicolas;21.10.1997;27;Gladbeck;Deutschland;1.93;Torwart;rechts
+Borussia Mönchengladbach;31653;Tobias Sippel;22.03.1988;36;Bad Duerkheim;Deutschland;1.83;Torwart;rechts
+Borussia Mönchengladbach;355816;Ko Itakura;27.01.1997;27;Yokohama, Kanagawa;Japan;1.88;Abwehr - Innenverteidiger;rechts
+Borussia Mönchengladbach;192635;Nico Elvedi;30.09.1996;28;Zuerich;Schweiz;1.89;Abwehr - Innenverteidiger;rechts
+Borussia Mönchengladbach;196231;Marvin Friedrich;13.12.1995;29;Kassel;Deutschland;1.93;Abwehr - Innenverteidiger;rechts
+Borussia Mönchengladbach;724104;Fabio Chiarodia;05.06.2005;19;Oldenburg;Italien/Deutschland;1.86;Abwehr - Innenverteidiger;links
+Borussia Mönchengladbach;524285;Luca Netz;15.05.2003;21;Berlin;Deutschland;1.84;Abwehr - Linker Verteidiger;links
+Borussia Mönchengladbach;787151;Lukas Ullrich;16.03.2004;20;Berlin;Deutschland;1.8;Abwehr - Linker Verteidiger;links
+Borussia Mönchengladbach;504153;Joe Scally;31.12.2002;22;Lake Grove, New York;Vereinigte Staaten;1.84;Abwehr - Rechter Verteidiger;rechts
+Borussia Mönchengladbach;85791;Stefan Lainer;27.08.1992;32;Salzburg;Oesterreich;1.75;Abwehr - Rechter Verteidiger;rechts
+Borussia Mönchengladbach;196792;Julian Weigl;08.09.1995;29;Bad Aibling;Deutschland;1.86;Mittelfeld - Defensives Mittelfeld;rechts
+Borussia Mönchengladbach;467434;Rocco Reitz;29.05.2002;22;Duisburg;Deutschland;1.76;Mittelfeld - Zentrales Mittelfeld;rechts
+Borussia Mönchengladbach;388409;Philipp Sander;21.02.1998;26;Rostock;Deutschland;1.86;Mittelfeld - Zentrales Mittelfeld;beidfuessig
+Borussia Mönchengladbach;278332;Florian Neuhaus;16.03.1997;27;Landsberg am Lech;Deutschland;1.85;Mittelfeld - Zentrales Mittelfeld;rechts
+Borussia Mönchengladbach;106872;Kevin Stoger;27.08.1993;31;Steyr;Oesterreich;1.75;Mittelfeld - Offensives Mittelfeld;links
+Borussia Mönchengladbach;284010;Robin Hack;27.08.1998;26;Pforzheim;Deutschland;1.78;Sturm - Linksaussen;rechts
+Borussia Mönchengladbach;586659;Yvandro Borges Sanches;24.05.2004;20;Luxemburg;Luxemburg/Kap Verde;1.8;Sturm - Linksaussen;rechts
+Borussia Mönchengladbach;229006;Franck Honorat;11.08.1996;28;Toulon;Frankreich;1.8;Sturm - Rechtsaussen;rechts
+Borussia Mönchengladbach;629588;Nathan Ngoumou;14.03.2000;24;Toulouse;Frankreich/Kamerun;1.85;Sturm - Rechtsaussen;rechts
+Borussia Mönchengladbach;193033;Tim Kleindienst;31.08.1995;29;Jueterbog;Deutschland;1.94;Sturm - Mittelstuermer;beidfuessig
+Borussia Mönchengladbach;167329;Alassane Plea;10.03.1993;31;Lille;Frankreich/Mali;1.81;Sturm - Mittelstuermer;rechts
+Borussia Mönchengladbach;544148;Tomas Cvancara;13.08.2000;24;Neratovice;Tschechien;1.9;Sturm - Mittelstuermer;rechts
+Borussia Mönchengladbach;574201;Grant Leon Ranos;20.07.2003;21;Gehrden;Armenien/Deutschland;1.8;Sturm - Mittelstuermer;rechts
+Borussia Mönchengladbach;1073997;Shio Fukuda;08.04.2004;20;Kanoya, Kagoshima;Japan;1.78;Sturm - Mittelstuermer;rechts
+Eintracht Frankfurt;45672;Kevin Trapp;08.07.1990;34;Merzig;Deutschland;1.89;Torwart;rechts
+Eintracht Frankfurt;997861;Kaua Santos;11.04.2003;21;Vassouras;Brasilien;1.98;Torwart;rechts
+Eintracht Frankfurt;40034;Jens Grahl;22.09.1988;36;Stuttgart;Deutschland;1.92;Torwart;rechts
+Eintracht Frankfurt;368891;Arthur Theate;25.05.2000;24;Liège;Belgien;1.85;Abwehr - Innenverteidiger;links
+Eintracht Frankfurt;328784;Robin Koch;17.07.1996;28;Kaiserslautern;Deutschland;1.92;Abwehr - Innenverteidiger;rechts
+Eintracht Frankfurt;546213;Tuta;04.07.1999;25;São Paulo, Sao Paulo;Brasilien;1.85;Abwehr - Innenverteidiger;rechts
+Eintracht Frankfurt;635645;Aurele Amenda;31.07.2003;21;Biel/Bienne;Schweiz/Kamerun;1.97;Abwehr - Innenverteidiger;rechts
+Eintracht Frankfurt;684315;Nnamdi Collins;10.01.2004;"21
+Happy Birthday";Duesseldorf;Deutschland/Nigeria;1.91;Abwehr - Innenverteidiger;rechts
+Eintracht Frankfurt;691892;Nathaniel Brown;16.06.2003;21;Amberg;Deutschland/Vereinigte Staaten;1.8;Abwehr - Linker Verteidiger;links
+Eintracht Frankfurt;591193;Niels Nkounkou;01.11.2000;24;Pontoise;Frankreich/Kongo;1.8;Abwehr - Linker Verteidiger;links
+Eintracht Frankfurt;369684;Rasmus Kristensen;11.07.1997;27;Brande;Daenemark;1.87;Abwehr - Rechter Verteidiger;rechts
+Eintracht Frankfurt;49723;Timothy Chandler;29.03.1990;34;Frankfurt am Main;Vereinigte Staaten/Deutschland;1.87;Abwehr - Rechter Verteidiger;rechts
+Eintracht Frankfurt;290587;Ellyes Skhiri;10.05.1995;29;Lunel;Tunesien/Frankreich;1.85;Mittelfeld - Defensives Mittelfeld;rechts
+Eintracht Frankfurt;931838;Hugo Larsson;27.06.2004;20;Svarte;Schweden;1.87;Mittelfeld - Zentrales Mittelfeld;rechts
+Eintracht Frankfurt;191422;Mahmoud Dahoud;01.01.1996;29;Amûdê‎;Syrien/Deutschland;1.78;Mittelfeld - Zentrales Mittelfeld;rechts
+Eintracht Frankfurt;846310;Oscar Hojlund;04.01.2005;20;København;Daenemark;1.87;Mittelfeld - Zentrales Mittelfeld;rechts
+Eintracht Frankfurt;536482;Junior Dina Ebimbe;21.11.2000;24;Stains;Frankreich/Kamerun;1.84;Mittelfeld - Rechtes Mittelfeld;rechts
+Eintracht Frankfurt;855015;Fares Chaibi;28.11.2002;22;Lyon;Algerien/Frankreich;1.83;Mittelfeld - Offensives Mittelfeld;rechts
+Eintracht Frankfurt;816585;Can Uzun;11.11.2005;19;Regensburg;Tuerkei/Deutschland;1.86;Mittelfeld - Offensives Mittelfeld;rechts
+Eintracht Frankfurt;74842;Mario Gotze;03.06.1992;32;Memmingen;Deutschland;1.76;Mittelfeld - Offensives Mittelfeld;rechts
+Eintracht Frankfurt;933217;Krisztian Lisztes;06.05.2005;19;Budapest;Ungarn;1.83;Mittelfeld - Offensives Mittelfeld;rechts
+Eintracht Frankfurt;939964;Jean Matteo Bahoya;07.05.2005;19;Montfermeil;Frankreich/Kamerun;1.8;Sturm - Linksaussen;rechts
+Eintracht Frankfurt;422355;Jens Petter Hauge;12.10.1999;25;Bodø;Norwegen;1.84;Sturm - Linksaussen;rechts
+Eintracht Frankfurt;429874;Ansgar Knauff;10.01.2002;"23
+Happy Birthday";Goettingen;Deutschland/Ghana;1.8;Sturm - Rechtsaussen;rechts
+Eintracht Frankfurt;445939;Omar Marmoush;07.02.1999;25;Kairo;Aegypten/Kanada;1.83;Sturm - Mittelstuermer;rechts
+Eintracht Frankfurt;709726;Hugo Ekitike;20.06.2002;22;Reims;Frankreich/Kamerun;1.89;Sturm - Mittelstuermer;rechts
+Eintracht Frankfurt;605268;Igor Matanovic;31.03.2003;21;Hamburg;Kroatien/Deutschland;1.94;Sturm - Mittelstuermer;null
+FC Augsburg;610190;Nediljko Labrovic;10.10.1999;25;Split;Kroatien;1.96;Torwart;rechts
+FC Augsburg;251299;Finn Dahmen;27.03.1998;26;Wiesbaden;Deutschland/England;1.86;Torwart;rechts
+FC Augsburg;392124;Daniel Klein;13.03.2001;23;Heidelberg;Deutschland;1.94;Torwart;rechts
+FC Augsburg;569383;Chrislain Matsima;15.05.2002;22;Colombes;Frankreich/Kongo;1.93;Abwehr - Innenverteidiger;rechts
+FC Augsburg;413843;Keven Schlotterbeck;28.04.1997;27;Weinstadt;Deutschland;1.88;Abwehr - Innenverteidiger;links
+FC Augsburg;388363;Maximilian Bauer;09.02.2000;24;Vilshofen;Deutschland;1.89;Abwehr - Innenverteidiger;rechts
+FC Augsburg;106405;Jeffrey Gouweleeuw;10.07.1991;33;Heemskerk;Niederlande;1.88;Abwehr - Innenverteidiger;rechts
+FC Augsburg;314295;Reece Oxford;16.12.1998;26;London;England/Jamaika;1.9;Abwehr - Innenverteidiger;rechts
+FC Augsburg;923945;Noahkai Banks;01.12.2006;18;Honolulu, Hawaii;Vereinigte Staaten/Deutschland;1.93;Abwehr - Innenverteidiger;rechts
+FC Augsburg;295630;Dimitrios Giannoulis;17.10.1995;29;Katerini;Griechenland;1.78;Abwehr - Linker Verteidiger;links
+FC Augsburg;288429;Mads Pedersen;01.09.1996;28;Hørsholm;Daenemark;1.78;Abwehr - Linker Verteidiger;links
+FC Augsburg;193900;Marius Wolf;27.05.1995;29;Coburg;Deutschland;1.88;Abwehr - Rechter Verteidiger;rechts
+FC Augsburg;353826;Robert Gumny;04.06.1998;26;Poznań;Polen;1.82;Abwehr - Rechter Verteidiger;rechts
+FC Augsburg;515624;Henri Koudossou;03.09.1999;25;Muenchen;Deutschland/Togo;1.8;Abwehr - Rechter Verteidiger;beidfuessig
+FC Augsburg;374954;Kristijan Jakic;14.05.1997;27;Split;Kroatien;1.84;Mittelfeld - Defensives Mittelfeld;rechts
+FC Augsburg;569457;Tim Breithaupt;07.02.2002;22;Offenburg;Deutschland;1.92;Mittelfeld - Defensives Mittelfeld;rechts
+FC Augsburg;730486;Mahmut Kucuksahin;07.04.2004;20;null;Tuerkei/Deutschland;null;Mittelfeld - Defensives Mittelfeld;null
+FC Augsburg;421637;Frank Onyeka;01.01.1998;27;Abuya;Nigeria;1.83;Mittelfeld - Zentrales Mittelfeld;rechts
+FC Augsburg;296397;Arne Maier;08.01.1999;26;Ludwigsfelde;Deutschland;1.86;Mittelfeld - Zentrales Mittelfeld;rechts
+FC Augsburg;280575;Elvis Rexhbecaj;01.11.1997;27;Prizren;Kosovo/Deutschland;1.82;Mittelfeld - Zentrales Mittelfeld;links
+FC Augsburg;384593;Alexis Claude Maurice;06.06.1998;26;Noisy-le-Grand;Frankreich/Guadeloupe;1.76;Mittelfeld - Offensives Mittelfeld;rechts
+FC Augsburg;249157;Fredrik Jensen;09.09.1997;27;Porvoo;Finnland;1.83;Mittelfeld - Offensives Mittelfeld;rechts
+FC Augsburg;777005;Mert Komur;17.07.2005;19;Dachau;Deutschland/Tuerkei;1.85;Mittelfeld - Offensives Mittelfeld;beidfuessig
+FC Augsburg;345886;Ruben Vargas;05.08.1998;26;Adligenswil;Schweiz/Dominikanische Republik;1.79;Sturm - Linksaussen;rechts
+FC Augsburg;604359;Yusuf Kabadayi;02.02.2004;20;Muenchen;Deutschland/Tuerkei;1.86;Sturm - Linksaussen;rechts
+FC Augsburg;307052;Masaya Okugawa;14.04.1996;28;Koka, Shiga;Japan;1.77;Sturm - Linksaussen;beidfuessig
+FC Augsburg;288340;Phillip Tietz;09.07.1997;27;Braunschweig;Deutschland;1.9;Sturm - Mittelstuermer;rechts
+FC Augsburg;395522;Samuel Essende;23.01.1998;26;Montfermeil;DR Kongo/Frankreich;1.93;Sturm - Mittelstuermer;rechts
+FC Augsburg;238639;Steve Mounie;29.09.1994;30;Parakou;Benin/Frankreich;1.89;Sturm - Mittelstuermer;rechts
+FC Bayern München;17259;Manuel Neuer;27.03.1986;38;Gelsenkirchen;Deutschland;1.93;Torwart;rechts
+FC Bayern München;468539;Daniel Peretz;10.07.2000;24;Tel Aviv;Israel/Deutschland;1.9;Torwart;rechts
+FC Bayern München;40680;Sven Ulreich;03.08.1988;36;Schorndorf;Deutschland;1.92;Torwart;rechts
+FC Bayern München;344695;Dayot Upamecano;27.10.1998;26;Évreux;Frankreich/Guinea-Bissau;1.86;Abwehr - Innenverteidiger;rechts
+FC Bayern München;503482;Min Jae Kim;15.11.1996;28;Tongyeong, Gyeongnam;Suedkorea;1.9;Abwehr - Innenverteidiger;rechts
+FC Bayern München;353892;Hiroki Ito;12.05.1999;25;Hamamatsu, Shizuoka;Japan;1.88;Abwehr - Innenverteidiger;links
+FC Bayern München;175722;Eric Dier;15.01.1994;30;Cheltenham;England/Portugal;1.91;Abwehr - Innenverteidiger;rechts
+FC Bayern München;744729;Tarek Buchmann;28.02.2005;19;Dillingen an der Donau;Deutschland/Togo;1.88;Abwehr - Innenverteidiger;rechts
+FC Bayern München;424204;Alphonso Davies;02.11.2000;24;Buduburam;Kanada/Liberia;1.85;Abwehr - Linker Verteidiger;links
+FC Bayern München;170986;Raphael Guerreiro;22.12.1993;31;Le Blanc-Mesnil;Portugal/Frankreich;1.7;Abwehr - Linker Verteidiger;links
+FC Bayern München;938146;Adam Aznou;02.06.2006;18;Barcelona;Marokko/Spanien;1.78;Abwehr - Linker Verteidiger;links
+FC Bayern München;483046;Josip Stanisic;02.04.2000;24;Muenchen;Kroatien/Deutschland;1.87;Abwehr - Rechter Verteidiger;beidfuessig
+FC Bayern München;475413;Sacha Boey;13.09.2000;24;Montreuil;Frankreich;1.78;Abwehr - Rechter Verteidiger;rechts
+FC Bayern München;161056;Joshua Kimmich;08.02.1995;29;Rottweil;Deutschland;1.77;Mittelfeld - Defensives Mittelfeld;rechts
+FC Bayern München;792380;Aleksandar Pavlovic;03.05.2004;20;Muenchen;Deutschland/Serbien;1.88;Mittelfeld - Defensives Mittelfeld;beidfuessig
+FC Bayern München;257455;Joao Palhinha;09.07.1995;29;Lisboa;Portugal;1.9;Mittelfeld - Defensives Mittelfeld;rechts
+FC Bayern München;223967;Konrad Laimer;27.05.1997;27;Salzburg;Oesterreich;1.8;Mittelfeld - Zentrales Mittelfeld;rechts
+FC Bayern München;153084;Leon Goretzka;06.02.1995;29;Bochum;Deutschland;1.89;Mittelfeld - Zentrales Mittelfeld;rechts
+FC Bayern München;580195;Jamal Musiala;26.02.2003;21;Stuttgart;Deutschland/England;1.84;Mittelfeld - Offensives Mittelfeld;rechts
+FC Bayern München;744728;Arijon Ibrahimovic;11.12.2005;19;Nuernberg;Deutschland/Kosovo;1.76;Mittelfeld - Offensives Mittelfeld;rechts
+FC Bayern München;159471;Serge Gnabry;14.07.1995;29;Stuttgart;Deutschland/Elfenbeinkueste;1.76;Sturm - Linksaussen;rechts
+FC Bayern München;243714;Kingsley Coman;13.06.1996;28;Paris;Frankreich/Guadeloupe;1.81;Sturm - Linksaussen;rechts
+FC Bayern München;801734;Mathys Tel;27.04.2005;19;Sarcelles;Frankreich/Guadeloupe;1.83;Sturm - Linksaussen;rechts
+FC Bayern München;566723;Michael Olise;12.12.2001;23;London;Frankreich/England;1.84;Sturm - Rechtsaussen;links
+FC Bayern München;192565;Leroy Sane;11.01.1996;28;Essen;Deutschland/Frankreich;1.83;Sturm - Rechtsaussen;links
+FC Bayern München;58358;Thomas Muller;13.09.1989;35;Weilheim in Oberbayern;Deutschland;1.85;Sturm - Haengende Spitze;rechts
+FC Bayern München;132098;Harry Kane;28.07.1993;31;London;England;1.88;Sturm - Mittelstuermer;rechts
+FC St. Pauli;248454;Nikola Vasilj;02.12.1995;29;Mostar;Bosnien-Herzegowina/Kroatien;1.93;Torwart;rechts
+FC St. Pauli;453742;Ben Voll;09.12.2000;24;Bergisch Gladbach;Deutschland;1.95;Torwart;beidfuessig
+FC St. Pauli;152460;Eric Oelschlagel;20.09.1995;29;Hoyerswerda;Deutschland;1.93;Torwart;rechts
+FC St. Pauli;36898;Sascha Burchert;30.10.1989;35;Berlin;Deutschland;1.87;Torwart;rechts
+FC St. Pauli;333074;Soren Ahlers;09.09.1997;27;Oldenburg;Deutschland;1.94;Torwart;beidfuessig
+FC St. Pauli;292534;Eric Smith;08.01.1997;28;Halmstad;Schweden;1.92;Abwehr - Innenverteidiger;rechts
+FC St. Pauli;154147;Hauke Wahl;15.04.1994;30;Hamburg;Deutschland;1.89;Abwehr - Innenverteidiger;rechts
+FC St. Pauli;139304;Karol Mets;16.05.1993;31;Viljandi;Estland;1.91;Abwehr - Innenverteidiger;links
+FC St. Pauli;451906;David Nemeth;18.03.2001;23;Eisenstadt;Oesterreich;1.91;Abwehr - Innenverteidiger;beidfuessig
+FC St. Pauli;236966;Adam Dzwigala;25.09.1995;29;Warszawa;Polen;1.85;Abwehr - Innenverteidiger;rechts
+FC St. Pauli;914890;Muhammad Dahaba;07.03.2005;19;Hamburg;Deutschland;1.94;Abwehr - Innenverteidiger;rechts
+FC St. Pauli;335993;Philipp Treu;03.12.2000;24;Heidelberg;Deutschland;1.73;Abwehr - Linker Verteidiger;rechts
+FC St. Pauli;333903;Lars Ritzka;07.05.1998;26;Hannover;Deutschland;1.85;Abwehr - Linker Verteidiger;links
+FC St. Pauli;242661;Manolis Saliakas;12.09.1996;28;Heraklion;Griechenland;1.77;Abwehr - Rechter Verteidiger;rechts
+FC St. Pauli;587019;Fin Stevens;10.04.2003;21;Brighton;Wales/England;1.79;Abwehr - Rechter Verteidiger;rechts
+FC St. Pauli;393321;James Sands;06.07.2000;24;Rye, New York;Vereinigte Staaten;1.86;Mittelfeld - Defensives Mittelfeld;rechts
+FC St. Pauli;1003534;Marwin Schmitz;07.01.2007;18;null;Deutschland;1.8;Mittelfeld - Defensives Mittelfeld;rechts
+FC St. Pauli;690429;Robert Wagner;14.07.2003;21;Lahr;Deutschland;1.81;Mittelfeld - Zentrales Mittelfeld;rechts
+FC St. Pauli;522223;Connor Metcalfe;05.11.1999;25;Newcastle, NSW;Australien;1.83;Mittelfeld - Zentrales Mittelfeld;links
+FC St. Pauli;192557;Jackson Irvine;07.03.1993;31;Melbourne;Australien/Schottland;1.89;Mittelfeld - Zentrales Mittelfeld;rechts
+FC St. Pauli;329373;Carlo Boukhalfa;03.05.1999;25;Freiburg im Breisgau;Deutschland/Algerien;1.86;Mittelfeld - Zentrales Mittelfeld;links
+FC St. Pauli;501049;Erik Ahlstrand;14.10.2001;23;Halmstad;Schweden;1.84;Mittelfeld - Zentrales Mittelfeld;null
+FC St. Pauli;526466;Elias Saad;27.12.1999;25;Hamburg;Tunesien/Deutschland;1.85;Sturm - Linksaussen;rechts
+FC St. Pauli;392163;Noah Weisshaupt;20.09.2001;23;Rostock;Deutschland;1.81;Sturm - Linksaussen;rechts
+FC St. Pauli;691786;Morgan Guilavogui;10.03.1998;26;Ollioules;Guinea/Frankreich;1.89;Sturm - Linksaussen;rechts
+FC St. Pauli;487850;Oladapo Afolayan;11.09.1997;27;London;England/Nigeria;1.8;Sturm - Rechtsaussen;rechts
+FC St. Pauli;346499;Danel Sinani;05.04.1997;27;Belgrad;Luxemburg/Serbien;1.85;Sturm - Rechtsaussen;links
+FC St. Pauli;596821;Scott Banks;26.09.2001;23;Linlithgow;Schottland/Wales;1.83;Sturm - Rechtsaussen;links
+FC St. Pauli;251303;Johannes Eggestein;08.05.1998;26;Hannover;Deutschland;1.83;Sturm - Mittelstuermer;rechts
+FC St. Pauli;88647;Andreas Albers;23.03.1990;34;Skive;Daenemark;1.93;Sturm - Mittelstuermer;rechts
+FC St. Pauli;79967;Simon Zoller;26.06.1991;33;Friedrichshafen;Deutschland;1.79;Sturm - Mittelstuermer;rechts
+FC St. Pauli;227511;Maurides;10.03.1994;30;Colômbia;Brasilien;1.89;Sturm - Mittelstuermer;links
+FC St. Pauli;1280281;Abdoulie Ceesay;05.01.2004;21;null;Gambia;1.85;Sturm - Mittelstuermer;null
+Holstein Kiel;296428;Timon Weiner;18.01.1999;25;Essen;Deutschland;1.91;Torwart;beidfuessig
+Holstein Kiel;115979;Thomas Dahne;04.01.1994;31;Oberaudorf;Deutschland;1.93;Torwart;beidfuessig
+Holstein Kiel;124080;Marcel Engelhardt;05.04.1993;31;Greven;Deutschland;1.91;Torwart;rechts
+Holstein Kiel;883902;Tyler Dogan;18.11.2005;19;Geesthacht;Tuerkei/Deutschland;1.87;Torwart;rechts
+Holstein Kiel;706024;Marko Ivezic;02.12.2001;23;Belgrade;Serbien;1.91;Abwehr - Innenverteidiger;rechts
+Holstein Kiel;622722;Colin Kleine Bekel;24.01.2003;21;Bielefeld;Deutschland;1.92;Abwehr - Innenverteidiger;rechts
+Holstein Kiel;282349;Timo Becker;25.03.1997;27;Herten;Deutschland;1.9;Abwehr - Innenverteidiger;rechts
+Holstein Kiel;471890;Max Geschwill;07.07.2001;23;Schwaebisch Hall;Deutschland;1.85;Abwehr - Innenverteidiger;links
+Holstein Kiel;335631;Marco Komenda;26.11.1996;28;Darmstadt;Deutschland/Kroatien;1.84;Abwehr - Innenverteidiger;links
+Holstein Kiel;225043;Carl Johansson;23.05.1994;30;Lund;Schweden;1.94;Abwehr - Innenverteidiger;rechts
+Holstein Kiel;469709;David Zec;05.01.2000;25;Kranj;Slowenien;1.9;Abwehr - Innenverteidiger;rechts
+Holstein Kiel;610608;Dominik Javorcek;02.11.2002;22;Bojnice;Slowakei;1.83;Abwehr - Linker Verteidiger;links
+Holstein Kiel;512352;Lasse Rosenboom;19.01.2002;22;Aurich;Deutschland;1.9;Abwehr - Rechter Verteidiger;rechts
+Holstein Kiel;193859;Patrick Erras;21.01.1995;29;Amberg;Deutschland;1.96;Mittelfeld - Defensives Mittelfeld;rechts
+Holstein Kiel;168678;Marvin Schulz;15.01.1995;29;Muelheim an der Ruhr;Deutschland;1.86;Mittelfeld - Defensives Mittelfeld;rechts
+Holstein Kiel;651269;Armin Gigovic;null;null;null;null;null;null;null
+Holstein Kiel;651735;Magnus Knudsen;15.06.2001;23;Oslo;Norwegen;1.86;Mittelfeld - Zentrales Mittelfeld;rechts
+Holstein Kiel;592534;Nicolai Remberg;19.06.2000;24;Rheine;Deutschland;1.88;Mittelfeld - Zentrales Mittelfeld;rechts
+Holstein Kiel;55508;Lewis Holtby;18.09.1990;34;Erkelenz;Deutschland/England;1.76;Mittelfeld - Zentrales Mittelfeld;links
+Holstein Kiel;747983;Aurel Wagbe;04.02.2004;20;Reinbek;Deutschland;1.91;Mittelfeld - Linkes Mittelfeld;links
+Holstein Kiel;241307;Finn Porath;23.02.1997;27;Eutin;Deutschland;1.8;Mittelfeld - Offensives Mittelfeld;rechts
+Holstein Kiel;93827;Steven Skrzybski;18.11.1992;32;Berlin;Deutschland;1.74;Mittelfeld - Offensives Mittelfeld;rechts
+Holstein Kiel;719694;Andu Kelati;13.08.2002;22;Frankfurt am Main;Deutschland/Eritrea;1.81;Sturm - Linksaussen;rechts
+Holstein Kiel;633454;Alexander Bernhardsson;08.09.1998;26;Goeteborg;Schweden;1.85;Sturm - Rechtsaussen;links
+Holstein Kiel;550580;Shuto Machino;30.09.1999;25;Iga, Mie;Japan;1.85;Sturm - Mittelstuermer;rechts
+Holstein Kiel;331362;Benedikt Pichler;20.07.1997;27;Salzburg;Oesterreich;1.88;Sturm - Mittelstuermer;rechts
+Holstein Kiel;606119;Phil Harres;25.03.2002;22;Datteln;Deutschland;1.93;Sturm - Mittelstuermer;rechts
+Holstein Kiel;343337;Fiete Arp;06.01.2000;25;Bad Segeberg;Deutschland;1.86;Sturm - Mittelstuermer;rechts
+RB Leipzig;486046;Maarten Vandevoordt;26.02.2002;22;Sint-Truiden;Belgien;1.92;Torwart;rechts
+RB Leipzig;57071;Peter Gulacsi;06.05.1990;34;Budapest;Ungarn;1.93;Torwart;rechts
+RB Leipzig;160971;Leopold Zingerle;10.04.1994;30;Muenchen;Deutschland;1.82;Torwart;rechts
+RB Leipzig;618472;Castello Lukeba;17.12.2002;22;Lyon;Frankreich/Angola;1.84;Abwehr - Innenverteidiger;links
+RB Leipzig;787912;El Chadaille Bitshiabu;16.05.2005;19;Villeneuve-Saint-Georges;Frankreich/DR Kongo;1.96;Abwehr - Innenverteidiger;links
+RB Leipzig;93740;Willi Orban;03.11.1992;32;Kaiserslautern;Ungarn/Deutschland;1.86;Abwehr - Innenverteidiger;rechts
+RB Leipzig;215599;Lukas Klostermann;03.06.1996;28;Gevelsberg;Deutschland;1.89;Abwehr - Innenverteidiger;rechts
+RB Leipzig;318204;David Raum;22.04.1998;26;Nuernberg;Deutschland;1.81;Abwehr - Linker Verteidiger;links
+RB Leipzig;420210;Lutsharel Geertruida;18.07.2000;24;Rotterdam;Niederlande/Curacao;1.84;Abwehr - Rechter Verteidiger;rechts
+RB Leipzig;202591;Benjamin Henrichs;23.02.1997;27;Bocholt;Deutschland/Ghana;1.85;Abwehr - Rechter Verteidiger;rechts
+RB Leipzig;926694;Arthur Vermeeren;07.02.2005;19;Lier;Belgien;1.8;Mittelfeld - Defensives Mittelfeld;rechts
+RB Leipzig;223979;Xaver Schlager;28.09.1997;27;Linz;Oesterreich;1.74;Mittelfeld - Zentrales Mittelfeld;links
+RB Leipzig;402008;Amadou Haidara;31.01.1998;26;Bamako;Mali;1.78;Mittelfeld - Zentrales Mittelfeld;rechts
+RB Leipzig;404950;Nicolas Seiwald;04.05.2001;23;Kuchl;Oesterreich;1.8;Mittelfeld - Zentrales Mittelfeld;rechts
+RB Leipzig;897424;Assan Ouedraogo;09.05.2006;18;Muelheim an der Ruhr;Deutschland/Burkina Faso;1.91;Mittelfeld - Zentrales Mittelfeld;rechts
+RB Leipzig;53418;Kevin Kampl;09.10.1990;34;Solingen;Slowenien;1.78;Mittelfeld - Zentrales Mittelfeld;rechts
+RB Leipzig;566931;Xavi Simons;21.04.2003;21;Amsterdam;Niederlande/Suriname;1.79;Mittelfeld - Offensives Mittelfeld;rechts
+RB Leipzig;324278;Christoph Baumgartner;01.08.1999;25;Horn;Oesterreich;1.8;Mittelfeld - Offensives Mittelfeld;rechts
+RB Leipzig;400489;Eljif Elmas;24.09.1999;25;Skopje;Nordmazedonien;1.84;Mittelfeld - Offensives Mittelfeld;rechts
+RB Leipzig;1074526;Viggo Gebel;22.11.2007;17;null;Deutschland;1.75;Mittelfeld - Offensives Mittelfeld;null
+RB Leipzig;894914;Antonio Nusa;17.04.2005;19;Langhus;Norwegen/Nigeria;1.83;Sturm - Linksaussen;rechts
+RB Leipzig;368887;Lois Openda;16.02.2000;24;Liège;Belgien/Marokko;1.77;Sturm - Mittelstuermer;rechts
+RB Leipzig;627442;Benjamin Sesko;31.05.2003;21;Radeče;Slowenien;1.95;Sturm - Mittelstuermer;rechts
+RB Leipzig;157635;Yussuf Poulsen;15.06.1994;30;København;Daenemark/Tansania;1.92;Sturm - Mittelstuermer;rechts
+RB Leipzig;198008;Andre Silva;06.11.1995;29;Baguim do Monte;Portugal;1.86;Sturm - Mittelstuermer;rechts
+SC Freiburg;526845;Noah Atubolu;25.05.2002;22;Freiburg im Breisgau;Deutschland/Nigeria;1.9;Torwart;rechts
+SC Freiburg;284769;Florian Muller;13.11.1997;27;Saarlouis;Deutschland;1.9;Torwart;links
+SC Freiburg;160954;Jannik Huth;15.04.1994;30;Bad Kreuznach;Deutschland;1.85;Torwart;rechts
+SC Freiburg;225657;Philipp Lienhart;11.07.1996;28;Lilienfeld;Oesterreich;1.89;Abwehr - Innenverteidiger;rechts
+SC Freiburg;124502;Matthias Ginter;19.01.1994;30;Freiburg im Breisgau;Deutschland;1.89;Abwehr - Innenverteidiger;rechts
+SC Freiburg;599419;Max Rosenfelder;10.02.2003;21;Freiburg im Breisgau;Deutschland;1.86;Abwehr - Innenverteidiger;rechts
+SC Freiburg;863759;Bruno Ogbus;17.12.2005;19;Neunkirch;Schweiz/Nigeria;1.85;Abwehr - Innenverteidiger;rechts
+SC Freiburg;45683;Manuel Gulde;12.02.1991;33;Mannheim;Deutschland;1.84;Abwehr - Innenverteidiger;rechts
+SC Freiburg;93707;Christian Gunter;28.02.1993;31;Villingen-Schwenningen;Deutschland;1.84;Abwehr - Linker Verteidiger;links
+SC Freiburg;815078;Jordy Makengo;03.08.2001;23;Saint-Denis;Frankreich/DR Kongo;1.91;Abwehr - Linker Verteidiger;links
+SC Freiburg;548348;Kiliann Sildillia;16.05.2002;22;Metz;Frankreich/Guadeloupe;1.86;Abwehr - Rechter Verteidiger;rechts
+SC Freiburg;93604;Lukas Kubler;30.08.1992;32;Bonn;Deutschland;1.82;Abwehr - Rechter Verteidiger;rechts
+SC Freiburg;55099;Nicolas Hofler;09.03.1990;34;Ueberlingen;Deutschland;1.81;Mittelfeld - Defensives Mittelfeld;rechts
+SC Freiburg;190284;Maximilian Eggestein;08.12.1996;28;Hannover;Deutschland;1.81;Mittelfeld - Zentrales Mittelfeld;rechts
+SC Freiburg;443331;Patrick Osterhage;01.02.2000;24;Goettingen;Deutschland;1.86;Mittelfeld - Zentrales Mittelfeld;links
+SC Freiburg;927353;Johan Manzambi;14.10.2005;19;Genève;Schweiz;1.82;Mittelfeld - Zentrales Mittelfeld;rechts
+SC Freiburg;608832;Merlin Rohl;05.07.2002;22;Berlin;Deutschland;1.92;Mittelfeld - Offensives Mittelfeld;rechts
+SC Freiburg;272587;Daniel Kofi Kyereh;08.03.1996;28;Accra;Ghana/Deutschland;1.79;Mittelfeld - Offensives Mittelfeld;rechts
+SC Freiburg;185077;Vincenzo Grifo;07.04.1993;31;Pforzheim;Italien;1.8;Sturm - Linksaussen;rechts
+SC Freiburg;337036;Florent Muslija;06.07.1998;26;Achern;Kosovo/Deutschland;1.72;Sturm - Linksaussen;rechts
+SC Freiburg;358504;Ritsu Doan;16.06.1998;26;Amagasaki, Hyogo;Japan;1.72;Sturm - Rechtsaussen;links
+SC Freiburg;645774;Eren Dinkci;13.12.2001;23;Bremen;Tuerkei/Deutschland;1.88;Sturm - Rechtsaussen;rechts
+SC Freiburg;143891;Maximilian Philipp;01.03.1994;30;Berlin;Deutschland;1.83;Sturm - Haengende Spitze;rechts
+SC Freiburg;452477;Junior Adamu;06.06.2001;23;Kano;Oesterreich;1.83;Sturm - Mittelstuermer;rechts
+SC Freiburg;120205;Michael Gregoritsch;18.04.1994;30;Graz;Oesterreich;1.93;Sturm - Mittelstuermer;links
+SC Freiburg;248999;Lucas Holer;10.07.1994;30;Achim;Deutschland;1.84;Sturm - Mittelstuermer;rechts
+SV Werder Bremen;196813;Michael Zetterer;12.07.1995;29;Muenchen;Deutschland;1.87;Torwart;beidfuessig
+SV Werder Bremen;620295;Mio Backhaus;16.04.2004;20;Moenchengladbach;Deutschland/Japan;1.94;Torwart;rechts
+SV Werder Bremen;99451;Markus Kolke;18.08.1990;34;Erlenbach am Main;Deutschland;1.87;Torwart;rechts
+SV Werder Bremen;156990;Marco Friedl;16.03.1998;26;Kirchbichl;Oesterreich;1.87;Abwehr - Innenverteidiger;links
+SV Werder Bremen;162434;Niklas Stark;14.04.1995;29;Neustadt an der Aisch;Deutschland;1.9;Abwehr - Innenverteidiger;rechts
+SV Werder Bremen;202228;Milos Veljkovic;26.09.1995;29;Basel;Serbien/Schweiz;1.88;Abwehr - Innenverteidiger;rechts
+SV Werder Bremen;334221;Amos Pieper;17.01.1998;26;Luedinghausen;Deutschland;1.92;Abwehr - Innenverteidiger;rechts
+SV Werder Bremen;830108;Julian Malatini;31.05.2001;23;Córdoba;Argentinien;1.91;Abwehr - Innenverteidiger;rechts
+SV Werder Bremen;58995;Anthony Jung;03.11.1991;33;Villajoyosa;Deutschland/Spanien;1.86;Abwehr - Innenverteidiger;links
+SV Werder Bremen;391780;Derrick Kohn;04.02.1999;25;Hamburg;Deutschland/Ghana;1.8;Abwehr - Linker Verteidiger;links
+SV Werder Bremen;649452;Issa Kabore;12.05.2001;23;Bobo-Dioulasso;Burkina Faso;1.8;Abwehr - Rechter Verteidiger;rechts
+SV Werder Bremen;119211;Mitchell Weiser;21.04.1994;30;Troisdorf;Deutschland/Algerien;1.77;Abwehr - Rechter Verteidiger;rechts
+SV Werder Bremen;338668;Senne Lynen;19.02.1999;25;Antwerpen;Belgien;1.85;Mittelfeld - Defensives Mittelfeld;rechts
+SV Werder Bremen;855134;Skelly Alvero;04.05.2002;22;Stains;Frankreich/Angola;2.02;Mittelfeld - Defensives Mittelfeld;rechts
+SV Werder Bremen;289835;Jens Stage;08.11.1996;28;Højbjerg;Daenemark;1.87;Mittelfeld - Zentrales Mittelfeld;rechts
+SV Werder Bremen;93844;Leonardo Bittencourt;19.12.1993;31;Leipzig;Deutschland/Brasilien;1.71;Mittelfeld - Zentrales Mittelfeld;rechts
+SV Werder Bremen;302215;Naby Keita;10.02.1995;29;Conakry;Guinea;1.72;Mittelfeld - Zentrales Mittelfeld;rechts
+SV Werder Bremen;393512;Felix Agu;27.09.1999;25;Osnabrueck;Deutschland/Nigeria;1.8;Abwehr - Linker Verteidiger;rechts
+SV Werder Bremen;346853;Romano Schmid;27.01.2000;24;Graz;Oesterreich;1.68;Mittelfeld - Offensives Mittelfeld;rechts
+SV Werder Bremen;391766;Marco Grull;06.07.1998;26;Schwarzach im Pongau;Oesterreich;1.82;Sturm - Linksaussen;beidfuessig
+SV Werder Bremen;825073;Leon Opitz;11.04.2005;19;Bad Oldesloe;Deutschland;1.83;Sturm - Linksaussen;links
+SV Werder Bremen;455662;Abdenego Nankishi;06.07.2002;22;Bremerhaven;Deutschland/Angola;1.78;Sturm - Linksaussen;links
+SV Werder Bremen;596153;Justin Njinmah;15.11.2000;24;Hamburg;Deutschland/Nigeria;1.85;Sturm - Rechtsaussen;rechts
+SV Werder Bremen;341317;Oliver Burke;07.04.1997;27;Kirkcaldy;Schottland;1.88;Sturm - Rechtsaussen;rechts
+SV Werder Bremen;125103;Marvin Ducksch;07.03.1994;30;Dortmund;Deutschland;1.88;Sturm - Mittelstuermer;rechts
+SV Werder Bremen;701757;Keke Topp;25.03.2004;20;Bremervoerde;Deutschland;1.92;Sturm - Mittelstuermer;rechts
+TSG 1899 Hoffenheim;55089;Oliver Baumann;02.06.1990;34;Breisach am Rhein;Deutschland;1.87;Torwart;rechts
+TSG 1899 Hoffenheim;432671;Luca Philipp;28.11.2000;24;Stuttgart;Deutschland;1.92;Torwart;null
+TSG 1899 Hoffenheim;718460;Lukas Petersson;09.02.2004;20;Duesseldorf;Island/Deutschland;1.95;Torwart;null
+TSG 1899 Hoffenheim;361260;Ozan Kabak;25.03.2000;24;Ankara;Tuerkei;1.87;Abwehr - Innenverteidiger;rechts
+TSG 1899 Hoffenheim;620217;Robin Hranac;29.01.2000;24;Plzeň;Tschechien;1.9;Abwehr - Innenverteidiger;rechts
+TSG 1899 Hoffenheim;875332;Arthur Chaves;29.01.2001;23;Florianópolis;Brasilien;1.88;Abwehr - Innenverteidiger;rechts
+TSG 1899 Hoffenheim;160241;Kevin Akpoguma;19.04.1995;29;Neustadt an der Weinstrasse;Nigeria/Deutschland;1.92;Abwehr - Innenverteidiger;rechts
+TSG 1899 Hoffenheim;371141;Stanley Nsoki;09.04.1999;25;Poissy;Frankreich/DR Kongo;1.84;Abwehr - Innenverteidiger;links
+TSG 1899 Hoffenheim;263380;Attila Szalai;20.01.1998;26;Budapest;Ungarn;1.92;Abwehr - Innenverteidiger;links
+TSG 1899 Hoffenheim;500054;David Jurasek;07.08.2000;24;Dolní Němčí;Tschechien;1.83;Abwehr - Linker Verteidiger;links
+TSG 1899 Hoffenheim;159844;Christopher Lenz;22.09.1994;30;Berlin;Deutschland;1.8;Abwehr - Linker Verteidiger;links
+TSG 1899 Hoffenheim;569387;Valentin Gendrey;21.06.2000;24;La Garenne-Colombes;Frankreich/Guadeloupe;1.79;Abwehr - Rechter Verteidiger;rechts
+TSG 1899 Hoffenheim;143798;Pavel Kaderabek;25.04.1992;32;Praha;Tschechien;1.82;Abwehr - Rechter Verteidiger;rechts
+TSG 1899 Hoffenheim;344069;Anton Stach;15.11.1998;26;Buchholz in der Nordheide;Deutschland;1.94;Mittelfeld - Defensives Mittelfeld;rechts
+TSG 1899 Hoffenheim;195736;Florian Grillitsch;07.08.1995;29;Neunkirchen;Oesterreich;1.87;Mittelfeld - Defensives Mittelfeld;rechts
+TSG 1899 Hoffenheim;315604;Diadie Samassekou;11.01.1996;28;Bamako;Mali;1.77;Mittelfeld - Defensives Mittelfeld;rechts
+TSG 1899 Hoffenheim;822959;Tom Bischof;28.06.2005;19;Aschaffenburg;Deutschland;1.83;Mittelfeld - Zentrales Mittelfeld;links
+TSG 1899 Hoffenheim;569031;Umut Tohumcu;11.08.2004;20;Offenburg;Deutschland/Tuerkei;1.75;Mittelfeld - Zentrales Mittelfeld;rechts
+TSG 1899 Hoffenheim;234029;Grischa Promel;09.01.1995;30;Stuttgart;Deutschland;1.84;Mittelfeld - Zentrales Mittelfeld;rechts
+TSG 1899 Hoffenheim;251309;Dennis Geiger;10.06.1998;26;Mosbach;Deutschland;1.73;Mittelfeld - Zentrales Mittelfeld;rechts
+TSG 1899 Hoffenheim;334999;Finn Becker;08.06.2000;24;Elmshorn;Deutschland;1.77;Mittelfeld - Zentrales Mittelfeld;links
+TSG 1899 Hoffenheim;808664;Florian Micheler;17.05.2005;19;Innsbruck;Oesterreich;1.85;Mittelfeld - Zentrales Mittelfeld;rechts
+TSG 1899 Hoffenheim;434116;Alexander Prass;26.05.2001;23;Hellmonsoedt;Oesterreich;1.8;Mittelfeld - Linkes Mittelfeld;links
+TSG 1899 Hoffenheim;116088;Marius Bulter;29.03.1993;31;Ibbenbueren;Deutschland;1.88;Sturm - Linksaussen;rechts
+TSG 1899 Hoffenheim;552057;Adam Hlozek;25.07.2002;22;Ivančice;Tschechien;1.88;Sturm - Haengende Spitze;rechts
+TSG 1899 Hoffenheim;1018259;Gift Orban;17.07.2002;22;Benue;Nigeria/Togo;1.78;Sturm - Mittelstuermer;rechts
+TSG 1899 Hoffenheim;307924;Mergim Berisha;11.05.1998;26;Berchtesgaden;Deutschland;1.88;Sturm - Mittelstuermer;rechts
+TSG 1899 Hoffenheim;46580;Andrej Kramaric;19.06.1991;33;Zagreb;Kroatien;1.77;Sturm - Mittelstuermer;rechts
+TSG 1899 Hoffenheim;923595;Max Moerstedt;15.01.2006;18;Mannheim;Deutschland;1.94;Sturm - Mittelstuermer;rechts
+TSG 1899 Hoffenheim;203123;Haris Tabakovic;20.06.1994;30;Grenchen;Bosnien-Herzegowina/Schweiz;1.94;Sturm - Mittelstuermer;rechts
+TSG 1899 Hoffenheim;618898;Erencan Yardimci;04.02.2002;22;Kocaeli;Tuerkei;1.88;Sturm - Mittelstuermer;rechts
+TSG 1899 Hoffenheim;237164;Ihlas Bebou;23.04.1994;30;Aledjo Kadara;Togo/Deutschland;1.85;Sturm - Mittelstuermer;rechts
+VfB Stuttgart;195778;Alexander Nubel;30.09.1996;28;Paderborn;Deutschland;1.93;Torwart;rechts
+VfB Stuttgart;800946;Dennis Seimen;01.12.2005;19;Heilbronn;Deutschland/Rumaenien;1.92;Torwart;links
+VfB Stuttgart;187624;Fabian Bredlow;02.03.1995;29;Berlin;Deutschland;1.9;Torwart;beidfuessig
+VfB Stuttgart;388067;Stefan Drljaca;20.04.1999;25;Homburg;Deutschland/Serbien;1.92;Torwart;rechts
+VfB Stuttgart;303219;Jeff Chabot;12.02.1998;26;Hanau;Deutschland/Frankreich;1.95;Abwehr - Innenverteidiger;links
+VfB Stuttgart;620598;Ameen Al Dakhil;06.03.2002;22;Baghdad;Belgien/Irak;1.87;Abwehr - Innenverteidiger;rechts
+VfB Stuttgart;690799;Anthony Rouault;29.05.2001;23;Villeneuve-sur-Lot;Frankreich;1.86;Abwehr - Innenverteidiger;rechts
+VfB Stuttgart;344598;Dan Axel Zagadou;03.06.1999;25;Créteil;Frankreich/Elfenbeinkueste;1.96;Abwehr - Innenverteidiger;links
+VfB Stuttgart;948537;Anrie Chase;24.03.2004;20;Yokosuka, Kanagawa;Japan/Vereinigte Staaten;1.88;Abwehr - Innenverteidiger;rechts
+VfB Stuttgart;436064;Ramon Hendriks;18.07.2001;23;Hendrik-Ido-Ambacht;Niederlande;1.89;Abwehr - Innenverteidiger;links
+VfB Stuttgart;282660;Maximilian Mittelstadt;18.03.1997;27;Berlin;Deutschland;1.8;Abwehr - Linker Verteidiger;links
+VfB Stuttgart;448258;Josha Vagnoman;11.12.2000;24;Hamburg;Deutschland/Elfenbeinkueste;1.9;Abwehr - Rechter Verteidiger;rechts
+VfB Stuttgart;507345;Leonidas Stergiou;03.03.2002;22;Wattwil;Schweiz/Griechenland;1.81;Abwehr - Rechter Verteidiger;rechts
+VfB Stuttgart;195246;Pascal Stenzel;20.03.1996;28;Buende;Deutschland;1.83;Abwehr - Rechter Verteidiger;rechts
+VfB Stuttgart;443710;Angelo Stiller;04.04.2001;23;Muenchen;Deutschland;1.83;Mittelfeld - Defensives Mittelfeld;links
+VfB Stuttgart;232320;Atakan Karazor;13.10.1996;28;Essen;Tuerkei/Deutschland;1.91;Mittelfeld - Defensives Mittelfeld;rechts
+VfB Stuttgart;342039;Yannik Keitel;15.02.2000;24;Breisach am Rhein;Deutschland;1.86;Mittelfeld - Defensives Mittelfeld;beidfuessig
+VfB Stuttgart;400546;Nikolas Nartey;22.02.2000;24;Bagsværd, Copenhagen;Daenemark/Ghana;1.86;Mittelfeld - Zentrales Mittelfeld;links
+VfB Stuttgart;569366;Enzo Millot;17.07.2002;22;Lucé;Frankreich/Martinique;1.75;Mittelfeld - Offensives Mittelfeld;links
+VfB Stuttgart;507341;Fabian Rieder;16.02.2002;22;Bern;Schweiz;1.79;Mittelfeld - Offensives Mittelfeld;links
+VfB Stuttgart;717465;Laurin Ulrich;31.01.2005;19;Heidenheim an der Brenz;Deutschland;1.8;Mittelfeld - Offensives Mittelfeld;rechts
+VfB Stuttgart;272278;Chris Fuhrich;09.01.1998;27;Castrop-Rauxel;Deutschland;1.81;Sturm - Linksaussen;rechts
+VfB Stuttgart;293281;Jacob Bruun Larsen;19.09.1998;26;Lyngby;Daenemark;1.83;Sturm - Linksaussen;rechts
+VfB Stuttgart;720162;Justin Diehl;27.11.2004;20;Koeln;Deutschland/Ghana;1.74;Sturm - Linksaussen;rechts
+VfB Stuttgart;1031774;Jarzinho Malanga;10.07.2006;18;null;Deutschland/Brasilien;1.79;Sturm - Linksaussen;rechts
+VfB Stuttgart;518505;Jamie Leweling;26.02.2001;23;Nuernberg;Deutschland/Ghana;1.85;Sturm - Rechtsaussen;beidfuessig
+VfB Stuttgart;907489;Luca Raimund;09.04.2005;19;Boeblingen;Deutschland;1.88;Sturm - Rechtsaussen;links
+VfB Stuttgart;455661;Nick Woltemade;14.02.2002;22;Bremen;Deutschland;1.98;Sturm - Haengende Spitze;rechts
+VfB Stuttgart;335457;Ermedin Demirovic;25.03.1998;26;Hamburg;Bosnien-Herzegowina;1.85;Sturm - Mittelstuermer;rechts
+VfB Stuttgart;339314;Deniz Undav;19.07.1996;28;Varel;Deutschland/Tuerkei;1.79;Sturm - Mittelstuermer;beidfuessig
+VfB Stuttgart;649016;El Bilal Toure;03.10.2001;23;Adjamé;Mali/Elfenbeinkueste;1.85;Sturm - Mittelstuermer;beidfuessig
+VfB Stuttgart;610431;Wahid Faghir;29.07.2003;21;Vejle;Daenemark/Afghanistan;1.86;Sturm - Mittelstuermer;rechts
+VfB Stuttgart;572919;Mohamed Sankoh;16.10.2003;21;Rotifunk;Niederlande/Sierra Leone;1.83;Sturm - Mittelstuermer;rechts
+VfB Stuttgart;675565;Thomas Kastanaras;09.01.2003;22;Stuttgart;Deutschland/Griechenland;1.86;Sturm - Mittelstuermer;null
+VfL Bochum;94192;Patrick Drewes;04.02.1993;31;Delmenhorst;Deutschland;1.94;Torwart;rechts
+VfL Bochum;84938;Timo Horn;12.05.1993;31;Koeln;Deutschland;1.92;Torwart;links
+VfL Bochum;40792;Manuel Riemann;09.09.1988;36;Muehldorf am Inn;Deutschland;1.86;Torwart;rechts
+VfL Bochum;452192;Paul Grave;10.04.2001;23;Borken;Deutschland;1.93;Torwart;rechts
+VfL Bochum;696164;Tim Oermann;06.10.2003;21;Bochum;Deutschland;1.89;Abwehr - Innenverteidiger;rechts
+VfL Bochum;343959;Erhan Masovic;22.11.1998;26;Novi Pazar;Serbien;1.89;Abwehr - Innenverteidiger;beidfuessig
+VfL Bochum;488755;Jakov Medic;07.09.1998;26;Zagreb;Kroatien;1.93;Abwehr - Innenverteidiger;rechts
+VfL Bochum;118850;Ivan Ordets;08.07.1992;32;Blyzhnye, Donetsk Oblast;Ukraine;1.95;Abwehr - Innenverteidiger;rechts
+VfL Bochum;265209;Noah Loosli;23.01.1997;27;Brugg;Schweiz;1.86;Abwehr - Innenverteidiger;rechts
+VfL Bochum;813730;Mohammed Tolba;19.07.2004;20;Essen;Deutschland/Aegypten;1.85;Abwehr - Innenverteidiger;rechts
+VfL Bochum;364258;Bernardo;14.05.1995;29;São Paulo;Brasilien;1.86;Abwehr - Linker Verteidiger;links
+VfL Bochum;196793;Maximilian Wittek;21.08.1995;29;Freising;Deutschland;1.73;Abwehr - Linker Verteidiger;links
+VfL Bochum;274461;Felix Passlack;29.05.1998;26;Bottrop;Deutschland;1.7;Abwehr - Rechter Verteidiger;rechts
+VfL Bochum;121686;Cristian Gamboa;24.10.1989;35;Liberia;Costa Rica;1.75;Abwehr - Rechter Verteidiger;rechts
+VfL Bochum;372712;Ibrahima Sissoko;27.10.1997;27;Meaux;Mali/Frankreich;1.93;Mittelfeld - Defensives Mittelfeld;rechts
+VfL Bochum;111266;Anthony Losilla;10.03.1986;38;Firminy;Frankreich;1.85;Mittelfeld - Defensives Mittelfeld;rechts
+VfL Bochum;744600;Niklas Jahn;26.07.2004;20;Lichtenfels;Deutschland;1.72;Mittelfeld - Defensives Mittelfeld;rechts
+VfL Bochum;204047;Matus Bero;06.09.1995;29;Ilava;Slowakei;1.81;Mittelfeld - Zentrales Mittelfeld;rechts
+VfL Bochum;505324;Agon Elezi;01.03.2001;23;Skopje;Nordmazedonien/Albanien;1.81;Mittelfeld - Zentrales Mittelfeld;rechts
+VfL Bochum;796221;Mats Pannewig;28.10.2004;20;Hamm;Deutschland;1.95;Mittelfeld - Zentrales Mittelfeld;null
+VfL Bochum;295060;Koji Miyoshi;26.03.1997;27;Kawasaki, Kanagawa;Japan;1.67;Mittelfeld - Rechtes Mittelfeld;links
+VfL Bochum;340459;Dani De Wit;28.01.1998;26;Hoorn;Niederlande;1.84;Mittelfeld - Offensives Mittelfeld;rechts
+VfL Bochum;334213;Lukas Daschner;01.10.1998;26;Duisburg;Deutschland;1.85;Mittelfeld - Offensives Mittelfeld;beidfuessig
+VfL Bochum;316575;Moritz Broni Kwarteng;28.04.1998;26;Stuttgart;Deutschland/Ghana;1.75;Mittelfeld - Offensives Mittelfeld;beidfuessig
+VfL Bochum;190289;Gerrit Holtmann;25.03.1995;29;Bremerhaven;Philippinen/Deutschland;1.85;Sturm - Linksaussen;links
+VfL Bochum;666977;Aliou Balde;12.12.2002;22;Baghagha;Guinea/Senegal;1.7;Sturm - Linksaussen;rechts
+VfL Bochum;684318;Samuel Bamba;13.02.2004;20;Ahlen;Deutschland/DR Kongo;1.79;Sturm - Rechtsaussen;beidfuessig
+VfL Bochum;412932;Myron Boadu;14.01.2001;23;Amsterdam;Niederlande/Ghana;1.81;Sturm - Mittelstuermer;rechts
+VfL Bochum;406973;Moritz Broschinski;23.09.2000;24;Finsterwalde;Deutschland;1.9;Sturm - Mittelstuermer;rechts
+VfL Bochum;119037;Philipp Hofmann;30.03.1993;31;Arnsberg;Deutschland;1.95;Sturm - Mittelstuermer;links
+VfL Wolfsburg;346551;Kamil Grabara;08.01.1999;26;Ruda Śląska;Polen;1.95;Torwart;rechts
+VfL Wolfsburg;118161;Marius Muller;12.07.1993;31;Heppenheim;Deutschland;1.92;Torwart;rechts
+VfL Wolfsburg;51977;Pavao Pervan;13.11.1987;37;Livno;Oesterreich;1.94;Torwart;beidfuessig
+VfL Wolfsburg;192268;Niklas Klinger;13.10.1995;29;Wolfsburg;Deutschland;1.87;Torwart;rechts
+VfL Wolfsburg;669380;Konstantinos Koulierakis;28.11.2003;21;Chania;Griechenland;1.88;Abwehr - Innenverteidiger;links
+VfL Wolfsburg;338629;Sebastiaan Bornauw;22.03.1999;25;Wemmel;Belgien;1.91;Abwehr - Innenverteidiger;rechts
+VfL Wolfsburg;239962;Denis Vavro;10.04.1996;28;Partizánske;Slowakei;1.89;Abwehr - Innenverteidiger;rechts
+VfL Wolfsburg;382478;Cedric Zesiger;24.06.1998;26;Meyriez FR;Schweiz;1.94;Abwehr - Innenverteidiger;links
+VfL Wolfsburg;1075579;Mathys Angely;21.04.2007;17;Brive-la-Gaillarde;Frankreich;1.9;Abwehr - Innenverteidiger;links
+VfL Wolfsburg;401527;Rogerio;13.01.1998;26;Nobres;Brasilien/Italien;1.78;Abwehr - Linker Verteidiger;links
+VfL Wolfsburg;369674;Joakim Maehle;20.05.1997;27;Østervrå;Daenemark;1.85;Abwehr - Rechter Verteidiger;rechts
+VfL Wolfsburg;327251;Ridle Baku;08.04.1998;26;Mainz;Deutschland/DR Kongo;1.76;Abwehr - Rechter Verteidiger;rechts
+VfL Wolfsburg;435796;Kilian Fischer;12.10.2000;24;Miltenberg;Deutschland;1.82;Abwehr - Rechter Verteidiger;beidfuessig
+VfL Wolfsburg;244940;Salih Ozcan;11.01.1998;26;Koeln;Tuerkei/Deutschland;1.83;Mittelfeld - Defensives Mittelfeld;rechts
+VfL Wolfsburg;503881;Aster Vranckx;04.10.2002;22;Erps-Kwerps;Belgien/DR Kongo;1.83;Mittelfeld - Zentrales Mittelfeld;rechts
+VfL Wolfsburg;342405;Mattias Svanberg;05.01.1999;26;Malmoe;Schweden;1.85;Mittelfeld - Zentrales Mittelfeld;rechts
+VfL Wolfsburg;117674;Maximilian Arnold;27.05.1994;30;Riesa;Deutschland;1.84;Mittelfeld - Zentrales Mittelfeld;links
+VfL Wolfsburg;119277;Yannick Gerhardt;13.03.1994;30;Wuerselen;Deutschland;1.84;Mittelfeld - Zentrales Mittelfeld;links
+VfL Wolfsburg;711517;Kevin Paredes;07.05.2003;21;South Riding, Virginia;Vereinigte Staaten/Dominikanische Republik;1.75;Mittelfeld - Linkes Mittelfeld;links
+VfL Wolfsburg;387106;Lovro Majer;17.01.1998;26;Zagreb;Kroatien;1.78;Mittelfeld - Offensives Mittelfeld;links
+VfL Wolfsburg;789252;Bence Dardai;24.01.2006;18;Berlin;Deutschland/Ungarn;1.89;Mittelfeld - Offensives Mittelfeld;rechts
+VfL Wolfsburg;897479;Bennit Broger;01.07.2006;18;Braunschweig;Deutschland;1.81;Mittelfeld - Offensives Mittelfeld;null
+VfL Wolfsburg;407098;Jakub Kaminski;05.06.2002;22;Ruda Śląska;Polen;1.79;Sturm - Linksaussen;rechts
+VfL Wolfsburg;533295;Patrick Wimmer;30.05.2001;23;Tulln;Oesterreich;1.82;Sturm - Rechtsaussen;rechts
+VfL Wolfsburg;746910;Mohamed Amoura;09.05.2000;24;Tahir;Algerien;1.7;Sturm - Mittelstuermer;rechts
+VfL Wolfsburg;391004;Jonas Wind;07.02.1999;25;Hvidovre;Daenemark;1.9;Sturm - Mittelstuermer;rechts
+VfL Wolfsburg;616344;Tiago Tomas;16.06.2002;22;Cascais;Portugal;1.8;Sturm - Mittelstuermer;rechts
+VfL Wolfsburg;314288;Lukas Nmecha;14.12.1998;26;Hamburg;Deutschland/England;1.85;Sturm - Mittelstuermer;rechts
+VfL Wolfsburg;117432;Kevin Behrens;03.02.1991;33;Bremen;Deutschland;1.85;Sturm - Mittelstuermer;beidfuessig
+VfL Wolfsburg;535551;Bartosz Bialek;11.11.2001;23;Brzeg;Polen;1.91;Sturm - Mittelstuermer;rechts
