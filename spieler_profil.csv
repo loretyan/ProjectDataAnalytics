@@ -1,4 +1,4 @@
-Vereinsname;Spieler_id;Name;Geburtsdatum;Alter;Geburtsort;Staatsbuergerschaft;Groesse in M;Position;Fuss
+Vereinsname;Spieler_id;Name;Geburtsdatum;Spieleralter;Geburtsort;Staatsbuergerschaft;Groesse_in_M;Position;Fuss
 1.FC Heidenheim 1846;43824;Kevin Muller;15.03.1991;33;Rostock;Deutschland;1.9;Torwart;rechts
 1.FC Heidenheim 1846;806948;Frank Feller;07.01.2004;21;Leonberg;Deutschland;1.83;Torwart;rechts
 1.FC Heidenheim 1846;57796;Vitus Eicher;05.11.1990;34;Erding;Deutschland;1.91;Torwart;links
